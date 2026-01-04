@@ -43,6 +43,9 @@
 ## 📸 Preview
 
 > Dashboard showcasing contacts, offers, messaging stats, and system activity.
+>
+> <img width="1917" height="920" alt="image" src="https://github.com/user-attachments/assets/7f2b2429-db70-499f-a90e-9ffdb2ffe09d" />
+
 
 ---
 
